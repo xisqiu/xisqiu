@@ -1,6 +1,6 @@
 <h2 align="center">  welcome to Hollow's space. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 <!-- shields.io 图标 系统图标插件 -->
-<div align="left">
+<div align="center">
 <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA">
 <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white">
